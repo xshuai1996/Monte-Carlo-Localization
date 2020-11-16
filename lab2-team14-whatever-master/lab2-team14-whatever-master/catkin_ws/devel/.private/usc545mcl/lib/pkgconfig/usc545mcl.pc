@@ -1,8 +1,0 @@
-prefix=/home/csci545/lab2-team14-whatever-master/catkin_ws/devel/.private/usc545mcl
-
-Name: usc545mcl
-Description: Description of usc545mcl
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/csci545/lab2-team14-whatever-master/catkin_ws/devel/.private/usc545mcl/lib 
-Requires: 

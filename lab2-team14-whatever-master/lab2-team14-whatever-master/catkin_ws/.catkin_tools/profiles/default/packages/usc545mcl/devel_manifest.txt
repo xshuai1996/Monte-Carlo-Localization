@@ -1,5 +1,0 @@
-usc545mcl
-/home/csci545/lab2-team14-whatever-master/catkin_ws/devel/.private/usc545mcl/cmake.lock /home/csci545/lab2-team14-whatever-master/catkin_ws/devel/./cmake.lock
-/home/csci545/lab2-team14-whatever-master/catkin_ws/devel/.private/usc545mcl/share/usc545mcl/cmake/usc545mclConfig.cmake /home/csci545/lab2-team14-whatever-master/catkin_ws/devel/share/usc545mcl/cmake/usc545mclConfig.cmake
-/home/csci545/lab2-team14-whatever-master/catkin_ws/devel/.private/usc545mcl/share/usc545mcl/cmake/usc545mclConfig-version.cmake /home/csci545/lab2-team14-whatever-master/catkin_ws/devel/share/usc545mcl/cmake/usc545mclConfig-version.cmake
-/home/csci545/lab2-team14-whatever-master/catkin_ws/devel/.private/usc545mcl/lib/pkgconfig/usc545mcl.pc /home/csci545/lab2-team14-whatever-master/catkin_ws/devel/lib/pkgconfig/usc545mcl.pc
