@@ -14,15 +14,14 @@ The implementation is stored in *./code/catkin_ws/src/usc545mcl/bin/usc545mcl.py
  ### To Execute
 
 To execute the code first build with catkin:
-'''shell
-sudo ./setup.sh
-cd catkin ws
-catkin build
-'''
+
+    sudo ./setup.sh
+    cd catkin ws
+    catkin build
 
 Then you can run the code:
 
     source devel/setup.bash
     roslaunch usc545mcl usc545mcl.launch
 
-    
+
