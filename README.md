@@ -21,7 +21,8 @@ catkin build
 '''
 
 Then you can run the code:
-'''python
-source devel/setup.bash
-roslaunch usc545mcl usc545mcl.launch
-'''
+
+    source devel/setup.bash
+    roslaunch usc545mcl usc545mcl.launch
+
+    
